@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance sent from Colonell Lilburnes regiment to his Excellency Sir Thomas Fairfax: wherein they declare their resolutions, to stand and fall with him; desiring his speedy endeavour for the setling of all mens interests in the kingdome, and freeing the kingdome from intolerable oppressions, and then to disband.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91639</idno>
+            <idno type="STC">Wing R1028</idno>
+            <idno type="STC">Thomason E417_15</idno>
+            <idno type="STC">ESTC R204442</idno>
+            <idno type="EEBO-CITATION">99863932</idno>
+            <idno type="PROQUEST">99863932</idno>
+            <idno type="VID">161323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161323)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E417[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance sent from Colonell Lilburnes regiment to his Excellency Sir Thomas Fairfax: wherein they declare their resolutions, to stand and fall with him; desiring his speedy endeavour for the setling of all mens interests in the kingdome, and freeing the kingdome from intolerable oppressions, and then to disband.</title>
+                  <author>Lilburne, Henry, d. 1648.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the black Spread Eagle at the West end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Henry Lilburne [and 24 others].</note>
+                  <note>Annotation on Thomason copy: "Nou: 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161323:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <p>A REMONSTRANCE Sent from Colonell Lilburnes Regiment To his EXCELLENCY Sir Thomas Fairfax: WHEREIN They declare their Reſolutions, to ſtand and fall with him; deſiring his ſpee<g ref="char:EOLhyphen"/>dy endeavour for the ſetling of all mens Intereſts in the Kingdome, and freeing the Kingdome from into<g ref="char:EOLhyphen"/>lerable Oppreſſions, and then to disband.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> at the black Spread Eagle at the Weſt end of <hi>Pauls.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161323:2"/>
+            <!-- PDF PAGE 11 -->
+            <pb n="1" facs="tcp:161323:2"/>
+            <!-- PDF PAGE 11 -->
+            <head>A REMONSTRANCE Sent from Colonell Lilburnes Regiment to the GENERAL.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>AMidſt the many diſtractions and diſcontents in the Army and Kingdome which ſaddens our hearts, and preſents nothing to our view but diſorder and confuſion, our experience and commemoration of divine providence propitious to your Excellency and the Army even from the firſt of your underta<g ref="char:EOLhyphen"/>kings to this very moment, is that alone that refreſheth us: nor needs the recollection of our memories, or that we look far backwards for an occaſion of praiſe; that late mercy (not the leaſt) whereby a being was re<g ref="char:EOLhyphen"/>gained for us, deſerves a perpetuall remembrance, and was not England concerned in the caſe of our Regi<g ref="char:EOLhyphen"/>ment?
+<pb n="2" facs="tcp:161323:3"/>
+               <!-- PDF PAGE 12 -->Or is it imaginable, that diſobedience was complotted there alone? or that they were the onely maintainers and abetters of non-ſubjection to Autho<g ref="char:EOLhyphen"/>rity? Surely, if their deſigne to diſ-ingage thoſe com<g ref="char:EOLhyphen"/>mitted to our charge by your Excellency, from us as unworthy commands, had been there limited, wee hope we ſhould rather have given way to their deſires, (though cauſleſſe) and with-drawne our ſelves, then in the leaſt, hazzarded one drop of bloud to con<g ref="char:EOLhyphen"/>tinue our Imployments. But if we ſeeme more ſen<g ref="char:EOLhyphen"/>ſible of thoſe dangers that were almoſt inevitable, then others do, (in regard we were the firſt that taſted of them, and were likely to be ſwallowed up by them) we humbly deſire your Excellencies pardon and (for a cleere manifeſtation of our integrity to your Excel<g ref="char:EOLhyphen"/>lency and the Weale publike) leave to preſent unto your Excellency,</p>
+            <p n="1">1. That as Souldiers and Members of your Excellen<g ref="char:EOLhyphen"/>cies Army, we owe all obedience and ſubjection to your Excellencies Authority and Commands, from which we humbly conceive, that neither Birthrights, nor other Priviledges whatſoever, (whereof we have or ought to have an equall ſhare with others) can or ought in the leaſt to diſ-oblige us; and that we ſhall rather ceaſe to be Souldiers, (which is all the Liber<g ref="char:EOLhyphen"/>ty we deſire) then diſpute your Excellencies power, or admit of anie Corrivall or Competitor therein: nor do we ſuppoſe to have declared any thing more herein, then what alwayes hath been, and muſt of neceſſity continue to be our duty; for beſides that it is eſſen<g ref="char:EOLhyphen"/>tiall both to the being and well being of an Army to
+<pb n="3" facs="tcp:161323:3"/>
+               <!-- PDF PAGE 12 -->obey Orders according to the Diſcipline of War, we yet owe more reſpect unto your Excellency (of whoſe care and trouble for us and the whole King<g ref="char:EOLhyphen"/>dome we are witneſſes) then is thereby required from us: And ſince neceſſity pleads for ſome particular perſon, to whom the care and Conduct of an Army muſt bee committed, if we were at liberty herein whom ſhould we deſire but your Excellency?</p>
+            <p n="2">2. We cannot but remind your Excellency, how that neceſſity indeed, and the diſſatisfaction of the Army in their juſt deſires, drew them to a ſolemne engagement, and thereby the counſells of the Ar<g ref="char:EOLhyphen"/>my being in ſome things altered from what they were before, hath lately been endeavoured to bee made a preſident to alter them againe, and male-contented ſpirits take occaſion hereby to divide the Army into Parties and Factions, endeavouring to turne everie mans ſword againſt his fellow, plea<g ref="char:EOLhyphen"/>ding neceſſity where there is none: and for ſuch things as are in themſelves very diſputable, whe<g ref="char:EOLhyphen"/>ther juſt or unjuſt, and which is more then proba<g ref="char:EOLhyphen"/>ble may be more deſtructive to the Commonwealth if granted, then the refuſall of them will be: It is therefore our humble deſire unto your Excellency, that you will ſtill continue to mediate on our be<g ref="char:EOLhyphen"/>halfes for the obtaining of thoſe our juſt and neceſ<g ref="char:EOLhyphen"/>ſary deſires in our former Petitions, Remonſtran<g ref="char:EOLhyphen"/>ces and Declarations mentioned, that ſo the whole Army may be ſatisfied and returne to its priſtine way of Government wherein they have been very ſucceſſeful under your Excellency.</p>
+            <pb n="4" facs="tcp:161323:4"/>
+            <!-- PDF PAGE 13 -->
+            <p>Laſtly, whereas the prevalency of parti<g ref="char:EOLhyphen"/>cular perſons in the Parliament, who have ſufficiently manifeſted their diſaffection to the Weale publike, hath for the preven<g ref="char:EOLhyphen"/>tion of Factions and parties in that hono<g ref="char:EOLhyphen"/>rable Aſſembly, manifeſted the reaſonable<g ref="char:EOLhyphen"/>neſſe of ſetting a period to this preſent Par<g ref="char:EOLhyphen"/>liament: and that before that can be with ſafety, many things of great concernment to the Kingdome are firſt to be tranſacted there, whereof your Excellency and the Army have already ſeverall times deſired conſideration to bee had by this Parlia<g ref="char:EOLhyphen"/>ment; It is our hearty deſire, that both Parliament and Army would joyntly re<g ref="char:EOLhyphen"/>ſolve, and accordingly act with all expedi<g ref="char:EOLhyphen"/>tion to the finiſhing of that great worke that lies upon them, and hath long beene by the people expected from them: and that the whole Kingdome may be proſpe<g ref="char:EOLhyphen"/>rous in the enjoyment of a free Parliament, and every particular perſon of his owne proper intereſt, that the world may beare us witneſſe, that we do not onely declare
+<pb n="5" facs="tcp:161323:4"/>
+               <!-- PDF PAGE 13 -->for, but proſecute the obtaining of their Liberties and Freedomes; that ſo ſoon as a firme peace can be ſetled, the great bur<g ref="char:EOLhyphen"/>den of maintaining Souldiers in this King<g ref="char:EOLhyphen"/>dome may no longer continue, to the great charge and trouble of the people, and to the empairing of that eſteem which the price of our bloods in our former atchieve<g ref="char:EOLhyphen"/>ments have affectionately wrought in their hearts towards the whole Army, whereof both members and carefull ten<g ref="char:EOLhyphen"/>derers of their reputation are</p>
+            <closer>
+               <signed>
+                  <hi>Your Excellencies moſt humble and obliged Servants.</hi>
+                  <list>
+                     <label>Subſcribed by</label>
+                     <item>
+                        <list>
+                           <item>Henry Lilburne, Lievte-Colonell.</item>
+                           <item>Paul Hobſon Major.</item>
+                           <item>Richard Deane.</item>
+                           <item>Ethelb. Morgan.</item>
+                           <item>Gabriel Earwood.</item>
+                           <item>James Hart.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <label>Captains.</label>
+                     <item>
+                        <list>
+                           <item>Jer. Tolhurſt.</item>
+                           <item>Abraham Holmes.</item>
+                           <item>Robert Hutton.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <label>Lievtenants.</label>
+                     <item>
+                        <list>
+                           <item>Jo. Topping.</item>
+                           <item>Jo. Turner.</item>
+                           <pb n="6" facs="tcp:161323:5"/>
+                           <!-- PDF PAGE 14 -->
+                           <item>Bar. Davis.</item>
+                           <item>Jo. Maſon.</item>
+                           <item>Fra. Nicholls.</item>
+                           <item>Tho. Cartwright.</item>
+                           <item>Ja. Roſe.</item>
+                           <item>Ed. Boone.</item>
+                           <item>Nathanael Strange.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <label>Enſignes.</label>
+                     <item>
+                        <list>
+                           <item>Jo. Branſon.</item>
+                           <item>Harbert Feild.</item>
+                           <item>Ed. Swallow.</item>
+                           <item>Wil. Endecoat.</item>
+                           <item>Hen. James.</item>
+                           <item>Jacob Summers.</item>
+                           <item>Peter Buſh.</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
